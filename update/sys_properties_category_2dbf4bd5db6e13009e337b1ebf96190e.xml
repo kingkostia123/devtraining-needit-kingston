@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-06 17:31:44</sys_created_on>
+        <sys_id>2dbf4bd5db6e13009e337b1ebf96190e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedIt properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_2dbf4bd5db6e13009e337b1ebf96190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-06 17:32:45</sys_updated_on>
+        <title><![CDATA[<p><img style="border: 5px solid black; vspace: 5px; hspace: 5px; align: left;" title="" src="sys_attachment.do?sys_id&#61;efa19f55db6e13009e337b1ebf961984" alt="Cant load image" width="150" height="150" align="left" border="5" hspace="5" vspace="5" /></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>This is my system property category TITLE</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=2dbf4bd5db6e13009e337b1ebf96190e"/>
+</record_update>
